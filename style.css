@@ -1,0 +1,53 @@
+.container{
+    background: red;
+    height: 300px;
+    
+
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    font-weight:bold ;
+    font-size: 20px;
+    margin: 10px;
+    padding: 20px;
+    border: 5px;
+    display:inline-block;
+
+    
+}
+
+.yellow{
+    background: yellow;
+}
+
+.blue{
+    background: blue;
+}
+.green{
+    background:green ;
+}
+ .purple{
+    background: purple;
+
+}
+ .pink{
+    background: pink;
+ }
+  .lightgreen{
+    background: lightgreen;
+  }
+
+ .logo{
+    color: goldenrod;
+     font-weight:bold ;
+     font-size: 24px;
+     font-family:'Times New Roman', Times, serif;
+
+ }
+  .links{
+    text-decoration:none ;
+    display: flex;
+    margin-left: 20px;
+  } 
